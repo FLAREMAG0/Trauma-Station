@@ -2,7 +2,7 @@
 
 - type: entity
   parent: BaseAntagGhostRoleRule
-  id: WraithMidround
+  id: WraithRoundstart
   components:
   - type: GhostroleAlert
   - type: AntagSelection
