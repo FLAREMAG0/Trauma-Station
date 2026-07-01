@@ -9,7 +9,7 @@
     agentName: wraith-round-end-agent-name
     antags:
     - !type:FixedAntagCount
-      proto: WraithMidround
+      proto: MobWraith
   - type: AntagRandomSpawn
   - type: AntagSpawner
     prototype: MobWraithMidround
